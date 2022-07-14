@@ -1,0 +1,1 @@
+print('Wazzupppp, have fun rollin die')

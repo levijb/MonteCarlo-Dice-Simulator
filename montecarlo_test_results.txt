@@ -1,0 +1,16 @@
+test10_combo (__main__.AnalyzerTest) ... ok
+test11_facecounts (__main__.AnalyzerTest) ... ok
+test8_init (__main__.AnalyzerTest) ... ok
+test9_jackpot (__main__.AnalyzerTest) ... ok
+test1_init (__main__.DieTest) ... ok
+test2_change_weight (__main__.DieTest) ... ok
+test3_roll (__main__.DieTest) ... ok
+test4_show (__main__.DieTest) ... ok
+test5_init (__main__.GameTest) ... ok
+test6_play (__main__.GameTest) ... ok
+test7_show (__main__.GameTest) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.004s
+
+OK
